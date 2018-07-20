@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdb225f00931fa64d84b212a5c438067, type: 3}
+  m_Name: LightningBlast
+  m_EditorClassIdentifier: 
+  skillName: LightningStrike
+  skillSprite: {fileID: 21300000, guid: df5153fca31c9bf47b2d36359b5dd373, type: 3}
+  skillCD: 3
+  baseCD: 0.5
+  AOEPrefab: {fileID: 1328686690640198, guid: 25dd621f18fc2a34cb7c7b98ab7f97c7, type: 2}
+  range: 5

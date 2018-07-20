@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a733fa28c13a348af9b9ebe05d951b, type: 3}
+  m_Name: RangedIndicator
+  m_EditorClassIdentifier: 
+  skillName: FrontalSquare
+  skillSprite: {fileID: 21300000, guid: 9c2654c6e93b84e4391bd17cb4054e60, type: 3}
+  skillCD: 0
+  baseCD: 0
+  leadUpSkill: {fileID: 11400000, guid: 11f96d9a429062146ac62507e5c8df4d, type: 2}
+  range: 20
+  width: 2

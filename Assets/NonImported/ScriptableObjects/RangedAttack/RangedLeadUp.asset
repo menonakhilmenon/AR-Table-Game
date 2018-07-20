@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a35f99e7a7fa204da9fbbe2b7291bbf, type: 3}
+  m_Name: RangedLeadUp
+  m_EditorClassIdentifier: 
+  skillName: RangedBolt
+  skillSprite: {fileID: 21300000, guid: a19cebe0599724c469f757f6e0b2d9a4, type: 3}
+  skillCD: 0
+  baseCD: 0
+  castTime: 2
+  leadUpSkill: {fileID: 11400000, guid: 0f96cd3f0e2dfc14f9ac279be79d0e6a, type: 2}
